@@ -1,0 +1,19 @@
+.container{
+    margin-top: 70px;
+}
+
+.row{
+    text-align:center
+}
+ul{
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+  }
+  
+#main{
+    text-align: left;
+}
+
